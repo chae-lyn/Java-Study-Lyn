@@ -29,7 +29,7 @@ DataType, Variable, Array
 
 |   | 타입 | 예시 | 기본값 | 할당되는 메모리 크기 |
 |:---|:---|:---:|:---:|---:|
-|   | 배열(Array) | ```java int[] arr = new int[5];```| Null | 4byte |
+|   | 배열(Array) | ```int[] arr = new int[5];```| Null | 4byte |
 |   | 열거(Enumeration) |   | Null | 4byte |
-|   | 클래스(class) | ```java Student s = new Student();``` | Null | 4byte |
+|   | 클래스(class) | ```Student s = new Student();``` | Null | 4byte |
 |   | 인터페이스(Interface) |   | Null | 4byte |
