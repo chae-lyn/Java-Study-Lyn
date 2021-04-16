@@ -1,4 +1,4 @@
-DataType, Variable, Array
+DataType
 ===
 
 데이터 타입 (DataType)
