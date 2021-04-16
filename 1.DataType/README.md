@@ -31,5 +31,5 @@ DataType, Variable, Array
 |:---|:---|:---:|:---:|---:|
 |   | 배열(Array) | ```java int[] arr = new int[5];```| Null | 4byte |
 |   | 열거(Enumeration) |   | Null | 4byte |
-|   | 클래스(class) | ```java String str= "test"; \n Student s = new Student();``` | Null | 4byte |
+|   | 클래스(class) | ```java Student s = new Student();``` | Null | 4byte |
 |   | 인터페이스(Interface) |   | Null | 4byte |
