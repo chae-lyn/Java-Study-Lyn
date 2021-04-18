@@ -40,12 +40,7 @@ int[] arr;
 int arr[];
 
 // 선언과 동시에 배열 크기 할당
-int[] arr = new int[5];     // 길이가 5인 int 배열의 선언 및 생성
-String[] arr = new String[5];   // 길이가 5인 int 배열의 선언 및 생성
-
-// 기존 배열의 참조변수에 초기화 할당
-int[] arr;
-arr = new int[5];   // 5의 크기를 가지고 초기값이 0인 배열 생성
+int[] arr = new int[5];     // 길이가 5인 int 배열의 선언 및 생성(int형의 기본값인 0으로 초기화)   
 
 // 선언과 동시에 배열의 크기지정 및 값 초기화
 String[] arr = {"가", "나", "다", "라"};
