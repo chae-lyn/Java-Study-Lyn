@@ -23,6 +23,7 @@
 
 ## 클래스(class)
 - 객체의 특성(속성, 기능)에 대한 정의
+- 추상화, 캡슐화가 적용되어야함
 ```
 [접근제한자] [예약어] class 클래스명 {
 
@@ -41,7 +42,11 @@
 public class Member{
     private String name;
     private int age;
+<<<<<<< HEAD
+
+=======
  
+>>>>>>> study
     public Member(){}
 
     public String getName(){
@@ -121,7 +126,11 @@ public class Academy{
     [접근제한자] 자료형 필드2;
 
     static{ 필드1 = 초기값; }
+<<<<<<< HEAD
+    
+=======
 
+>>>>>>> study
     { 필드2 = 초기값; }
 }
 ```
