@@ -42,11 +42,7 @@
 public class Member{
     private String name;
     private int age;
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> study
     public Member(){}
 
     public String getName(){
@@ -126,11 +122,6 @@ public class Academy{
     [접근제한자] 자료형 필드2;
 
     static{ 필드1 = 초기값; }
-<<<<<<< HEAD
-    
-=======
-
->>>>>>> study
     { 필드2 = 초기값; }
 }
 ```
