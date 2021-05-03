@@ -30,11 +30,8 @@ int b = a++;    // b = 10
 
 ```java
 int x = -10;
-<<<<<<< HEAD
+
 int y = +x;     // y = 10
-=======
-int y = +x;     // y = -10
->>>>>>> study
 
 y = -x;         // y = 10
 ``` 
