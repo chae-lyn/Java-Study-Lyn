@@ -12,4 +12,4 @@
 
 > [5. 제어문(Control Statement)](https://github.com/chae-lyn/java-study-lyn/tree/study/5.Control%20Statement)
 
-> [6. 객체(Object)](https://github.com/chae-lyn/java-study-lyn/tree/study/6.Object)
+> [6-1. 객체(Object)](https://github.com/chae-lyn/java-study-lyn/tree/study/6.Object)
